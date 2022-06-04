@@ -1,0 +1,42 @@
+.online-registration-form-title{
+	font-size: 16px;
+	margin-bottom: 15px;
+	font-weight: bold;
+}
+
+.online-registration-form-subtitle{
+	font-size: 16px;
+	margin-left: 2%;
+	margin-bottom: 15px;
+	
+}
+
+.online-registration-form-box{
+	text-align: left;
+	font-size: 12px;
+	width: 100%;
+	
+}
+
+.online-registration-data{
+	margin-bottom: 10px;
+}
+
+.online-registration-button{
+	background-color: darkgray;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+	border: none;
+	font-size: 14px;	
+}
+
+.online-registration-button:hover{
+	background-color: lightgray;	
+}
+
+.error{
+	color: red;
+	margin-bottom: 10px;
+}

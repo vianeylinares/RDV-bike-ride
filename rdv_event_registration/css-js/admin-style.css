@@ -1,0 +1,33 @@
+.set_box{
+	height: 26px;
+	/*width: 20%;*/
+	position: absolute;
+	/*top:0px;*/
+	/*left: 0px;*/
+	background-color: red;
+	cursor: move;
+	opacity: .6;
+	text-align: center;
+	color: white;
+	line-height: 26px;
+}
+
+.length_one{
+	width: 20%;
+}
+
+.length_two{
+	width: 2%;
+}
+
+.length_three{
+	width: 40%;
+}
+
+.length_four{
+	width: 10%;
+}
+
+.length_five{
+	width: 8%;
+}
