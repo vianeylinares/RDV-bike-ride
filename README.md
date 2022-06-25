@@ -27,7 +27,7 @@ The second meta-box shows a list that presents the registered attendees and a fe
 
 The image section in the first meta-box also presents eleven drag and drop spaces (in red). These spaces represent the fields in the custom registration form and can be moved around by the admin/manager user. The spaces objective is to be placed/set in different positions according to the field distribution established by the hardcopy registration form design. This way, the form fields can be placed where it should be necessary and, without mattering the hardcopy registration form design.
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/rnr7bD40A3A/0.jpg)](http://www.youtube.com/watch?v=rnr7bD40A3A "Bike Ride event registration plugin - admin sample view")
+[![IMAGE ALT TEXT](https://vl-portfolio-images.s3.us-west-2.amazonaws.com/rdv-event-creation.jpg)](http://www.youtube.com/watch?v=rnr7bD40A3A "Bike Ride event registration plugin - admin sample view")
 
 
 ### RDV frontend
@@ -42,7 +42,7 @@ The second form emails the filled registration form to an already registered att
 
 If there are no errors in either form, the system will generate the custom PDF form containing the attendee’s data. The system will email the PDF document to the attendee.
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/NAb_7mzuId4/0.jpg)](http://www.youtube.com/watch?v=NAb_7mzuId4 "Bike Ride event registration plugin - frontend sample view")
+[![IMAGE ALT TEXT](https://vl-portfolio-images.s3.us-west-2.amazonaws.com/RDV-frontend.jpg)](http://www.youtube.com/watch?v=NAb_7mzuId4 "Bike Ride event registration plugin - frontend sample view")
 
 
 ### Other details
