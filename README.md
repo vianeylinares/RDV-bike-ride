@@ -50,7 +50,7 @@ If there are no errors in either form, the system will generate the custom PDF f
 The plugin was developed with:
 <ul>
 <li>WordPress</li>
-<li>PHP 5.6</li>
+<li>PHP</li>
 <li>HTML</li>
 <li>JavaScript/jQuery</li>
 <li>CSS</li>
@@ -58,6 +58,4 @@ The plugin was developed with:
 <li>FPDI</li>
 </ul>
 
-Company: Click-MX
-
-This application was initially released in 2016.
+This application was initially released in 2016. As of now, this application is no longer online.
