@@ -1,9 +1,9 @@
-# RDV event registration
+# Bikeride Event Registration
 
 This project goal was to create a custom WordPress plugin for a bike ride event registration. The attendees register at the frontend with a custom form. Once the attendee enters the required data and the custom form it’s sent, the system will record the attendee’s data in the DB. Then the system will automatically fill the event custom PDF form. Once the custom PDF form is ready, the system sends it by email to the attendee.
 
 
-### RDV admin
+### Bikeride ER admin
 
 The plugin adds two custom post-types: participant and event.
 
@@ -30,7 +30,7 @@ The image section in the first meta-box also presents eleven drag and drop space
 [![IMAGE ALT TEXT](https://vl-portfolio-images.s3.us-west-2.amazonaws.com/rdv-event-creation.jpg)](http://www.youtube.com/watch?v=rnr7bD40A3A "Bike Ride event registration plugin - admin sample view")
 
 
-### RDV frontend
+### Bikeride ER frontend
 
 If the current event is enabled, two different forms are displayed:
 
